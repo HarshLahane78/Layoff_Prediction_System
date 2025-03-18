@@ -41,6 +41,23 @@ The project utilizes:
 4. Evaluate performance using classification metrics
 5. Save and deploy the trained model
 
+## Results 
+Database Results :
+![image](https://github.com/user-attachments/assets/b35022d8-b527-4fa4-8029-2ceec65888a7)
+
+Company Stock Prices :
+![image](https://github.com/user-attachments/assets/7ca8f80f-af3f-4bc7-90ba-621a2bffab9f)
+
+Data Merging Results : 
+![image](https://github.com/user-attachments/assets/4f3a7d66-f994-4b38-bfe4-8e48b64fbad2)
+
+ROC Curve :
+![image](https://github.com/user-attachments/assets/076efa19-63b2-4564-9adc-9630e45bec8a)
+
+Final Layoff Prediction :
+![image](https://github.com/user-attachments/assets/444609a2-6d46-46ba-9f79-aaba5dbf1f5b)
+
+
 ## Repository
 [GitHub Link](https://github.com/HarshLahane78/Layoff_Prediction_System)
 
